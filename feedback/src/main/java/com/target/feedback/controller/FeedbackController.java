@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.target.feedback.service.FeedbackService;
 
-import io.swagger.annotations.Api;
 
 @RestController
 public class FeedbackController {
