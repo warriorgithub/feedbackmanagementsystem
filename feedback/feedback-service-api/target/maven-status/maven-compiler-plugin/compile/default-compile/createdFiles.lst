@@ -1,0 +1,4 @@
+org/feedback/service/api/dto/GenericResponseDto.class
+org/feedback/service/api/dto/GenericResponseDto$ResponseEnum.class
+org/feedback/service/api/dto/FeedbackResponseDto.class
+org/feedback/service/api/App.class
